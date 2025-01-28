@@ -1,1 +1,1 @@
-# PP-gra
+# Gra na podstawie prostych gier na telefonie (Dungeon)
